@@ -15,7 +15,7 @@ class ImcController {
   String imcResult() {
     Person person = Person(altura: _altura, peso: _peso);
 
-    double imc = person.getImc();
+    double imc = person.calcularImc();
     String _resultado;
 
     //rever se o if_else, ficar dentro do controller ou dentro do model

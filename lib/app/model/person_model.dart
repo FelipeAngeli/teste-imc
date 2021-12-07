@@ -4,7 +4,7 @@ class Person {
 
   Person({required this.peso, required this.altura});
 
-  double getImc() {
+  double calcularImc() {
     double imc = peso / (altura * altura);
     return double.parse(imc.toStringAsFixed(2));
   }
