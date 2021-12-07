@@ -1,4 +1,4 @@
-# testeimc
+# imc
 
 Projeto IMC, com MVC.
 
