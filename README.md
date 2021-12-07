@@ -1,6 +1,6 @@
-# testeimc
+# imc
 
-A new Flutter project.
+Projeto IMC, com MVC.
 
 ## Getting Started
 
